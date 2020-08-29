@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://imagizer.imageshack.com/img922/5755/LjfocE.jpg);
+  background-size: cover;
+  color: whitesmoke;
+  text-align: left;  
+}
+
